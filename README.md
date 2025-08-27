@@ -11,7 +11,8 @@
 ![Multiple cameras](data/Trailtracking_3views_c.gif)  
 *Simultaneous multi-camera views of a mouse tracking a trail*
 <small>
-The nose position of the mouse shown was  obtained through <a href="https://www.deeplabcut.org/](https://github.com/DeepLabCut/DeepLabCut)">DeepLabCut</a>.
+The nose position of the mouse shown was obtained through 
+<a href="https://github.com/DeepLabCut/DeepLabCut" target="_blank">DeepLabCut</a>.
 </small>
 
 ---
