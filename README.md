@@ -1,6 +1,6 @@
 # Odor Trail Tracking Demos
 
-## 3. Inkjet Printing for Odor Trail Delivery
+## 1. Inkjet Printing for Odor Trail Delivery
 ![Inkjet printing for odor trail delivery](data/Printer_video.gif)  
 *Automated inkjet printer precisely delivers odor trails for behavioral experiments.*
 
@@ -12,6 +12,6 @@
 
 ---
 
-## 1. Top View: Mouse Tracking a Trail
+## 3. Top View: Mouse Tracking a Trail
 ![Example of a mouse tracking a trail](data/Trailtracking_top1_c.gif)  
 *A top-down view of a mouse following an odor trail.*
