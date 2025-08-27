@@ -20,4 +20,4 @@ The nose position of the mouse shown was obtained through
 
 ### 3. Top view of a mouse tracking a trail
 ![Example of a mouse tracking a trail](data/Trailtracking_top1_c.gif)  
-*A top-down view of a mouse following an odor trail*
+*A top-down view of a mouse following an odor trail.*
