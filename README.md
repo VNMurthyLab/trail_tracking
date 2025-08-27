@@ -1,4 +1,4 @@
-# Odor Trail Tracking Demos
+# Odor trail tracking demos
 
 ### 1. Inkjet printing for odor trail delivery
 ![Inkjet printing for odor trail delivery](data/Printer_video.gif)  
