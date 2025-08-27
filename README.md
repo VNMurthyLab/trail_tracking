@@ -2,7 +2,7 @@
 
 ### 1. Inkjet printing for odor trail delivery
 ![Inkjet printing for odor trail delivery](data/Printer_video.gif)  
-*Automated inkjet printer precisely delivers odor trails for behavioral experiments*
+*Automated inkjet printer precisely delivers odor trails for behavioral experiments.*
 
 ---
 
@@ -10,6 +10,7 @@
 
 ![Multiple cameras](data/Trailtracking_3views_c.gif)  
 *Simultaneous multi-camera views of a mouse tracking a trail*
+
 <small>
 The nose position of the mouse shown was obtained through 
 <a href="https://github.com/DeepLabCut/DeepLabCut" target="_blank">DeepLabCut</a>.
